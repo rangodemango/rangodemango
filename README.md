@@ -16,7 +16,7 @@
 
 ### ⚡ Featured Projects
 
-#### 🎨 **Professor Portrait**
+#### 🎨 [**Professor Portrait**](https://github.com/rangodemango/Professor_Portrait)
 _A Python-based Discord bot that automates the process of changing your Discord server's icon on a daily basis. This was my first project working with Python._
 
 #### 🐾 **Discord_Self_Bot** 
